@@ -22,3 +22,13 @@
 它不仅仅可以加密.txt文件，其它任何类型的文件都可以进行加密，下面我们加密一个图片文件。
 ![](_v_images/20200415195003523_971398774.png)
 ![](_v_images/20200415195010174_1128510124.png)
+
+# Deepin Linux v20 Beta安装方法
+```bash
+sudo tar -zxvf file_en_decryption.tar.gz
+sudo mv file_en_decryption /opt/
+sudo cp /opt/file_en_decryption/file_en_decryption.desktop /usr/share/applications/
+
+#Key存放目录
+/home/username
+```
